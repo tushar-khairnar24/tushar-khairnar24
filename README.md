@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Khairnar</h1>
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;MySQL+%7C+MongoDB+%7C+Tailwind+CSS;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 ---
 
