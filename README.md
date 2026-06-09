@@ -37,19 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-khairnar24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-khairnar24&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-khairnar24&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="left">
@@ -64,10 +51,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-khairnar24&label=Profile%20views&color=6366f1&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">⭐️ <i>From <a href="https://github.com/tushar-khairnar24">Tushar Khairnar</a></i></p>
